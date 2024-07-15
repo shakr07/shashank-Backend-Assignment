@@ -20,22 +20,26 @@ To start the project, follow these steps:
 4. **Start the Backend Server:**
    - Navigate to the backend folder:
 
+     ```sh
      cd backend
      ```
 
    - Start the backend server using the following command:
 
+     ```sh
      nodemon index.js
      ```
 
 5. **Start the Frontend Server:**
    - Navigate to the blog-app folder:
 
-      cd blog-app
+     ```sh
+     cd blog-app
      ```
 
    - Start the frontend server using the following command:
-    
+
+     ```sh
      npm run dev
      ```
 
